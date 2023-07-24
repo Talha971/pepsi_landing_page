@@ -1,0 +1,16 @@
+/* body{
+ 
+} */
+.logo{
+    height: 50px !important;
+    width: 50px !important;
+}
+.navButton{
+    border-radius: 20px;
+    border: solid 1px;
+}
+
+.img1,.img2
+{
+ width: 100%;
+}
