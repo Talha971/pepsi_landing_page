@@ -9,15 +9,27 @@
     position: fixed;
     width: 100%;
 }
+.haha{
+    padding-left: 50px;
+}
+.i20{
+    padding-left: 50px !important;
+}
 .logo{
     height: 50px !important;
     width: 50px !important;
+    
 }
 .navButton{
-    border-radius: 20px;
+    border-radius: 50px !important;
     border: solid 1px;
+    display: flex !important; 
+   justify-content: right !important;
+   text-align: center;
 }
-
+.i21{
+    padding-right: 450px !important;
+}
 
 .dropdown-menu{
     width: 100%;
@@ -27,19 +39,55 @@
     background-color: white;
     color: blue;
 }
-.navButton{
-   display: flex; 
-   justify-content: right;
+.navbar-toggler{
+    border: solid 1px;
+    border-color: white;
+    color: white;
+    border: none;
+}
+.navbar-toggler-icon{
+    color: white !important;
+    /* background-color: white; */
+    border-color: white !important;
 }
 
-@media (max-width: 1028px) {
-    body{
-       text-align: center;
+@media (max-width: 375px) {
+    .navbar{
+        position: absolute;
+        /* height: 100%; */
+        width: 100%;
+    }
+    .haha{
+        padding-right: 40px;
+    }
+
+    .i2{
+        padding-top: 100px !important;
+        width: 100%;
+        text-align: center !important;
+        padding-left: 50%;
+
+    }
+    .c1{
+        text-align: center !important;
+        padding-left: 45%;
+    }
+    .c2{
+        font-size: 15px !important;
+    }
+   .qw{
+    color: blue;
+    background-color: none ;
+    /* border-radius: 20px !important; */
+    font-size: 40px !important;
+    /* padding-left: 20px; */
+}
+.qe{
+    background-color: white !important;
+    border-radius: 40px;
+}
    } 
-   .dropdown-toggle{
-       text-align: center;
-   }
-   }
+
 
 
 /* section 1 */
@@ -212,12 +260,33 @@ font-weight: 700;
     
  }
 
+ /* footer */
+
  .i14{
+    padding-top: 100px;
     background-color: rgb(78, 78, 232);
     height: 300px;
-
+    /* display: inline-flex; */
+    width: 100%;
+    /* margin: 20px; */
+    display: flex;
+    justify-content:space-around
+    
  }
 a{
     text-decoration: none;
     font-weight: 700;
+}
+.i15{
+    width: 125px !important;
+    height: 125px !important;
+}
+.ic{
+
+margin: 25px;
+}
+.fa-brands{
+width: 30px !important;
+height: 30px !important;
+color: white;
 }
