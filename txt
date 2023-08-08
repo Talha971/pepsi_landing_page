@@ -1,0 +1,102 @@
+
+<!-- footer code -->
+
+<footer class="i14">
+
+  <div class="i16">
+    <img class="i15 logo" src="/pepsi-logo-94D7DEF922-seeklogo.com-modified.png" alt="">
+  </div>
+ 
+  <div>
+    
+      <!-- Grid container -->
+      <div class="container p-4">
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+            
+    
+            <ul class="list-unstyled mb-0">
+              <li>
+                <a href="#!" class="text-light">CONTACT US</a>
+              </li>
+              <li>
+                <a href="#!" class="text-light">TERMS & CONDITION</a>
+              </li>
+              <li>
+                <a href="#!" class="text-light">PRIVACY POLICY</a>
+              </li>
+            </ul>
+          </div>
+          <!--Grid column-->
+    
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+            
+    
+            <ul class="list-unstyled">
+              <li>
+                <a href="#!" class="text-light">COPYRIGHTS</a>
+              </li>
+              <li>
+                <a href="#!" class="text-light">PRODUCT FACTS</a>
+              </li>
+              <li>
+                <a href="#!" class="text-light">STORE LOCATOR</a>
+              </li>
+              
+            </ul>
+          </div>
+          <!--Grid column-->
+    
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+            <!-- <h5 class="text-uppercase">Links</h5> -->
+    
+            <ul class="list-unstyled mb-0">
+              <li>
+                <a href="#!" class="text-light">SERVE PEPSI</a>
+              </li>
+              <li>
+                <a href="#!" class="text-light">ABOUT OUR ADS</a>
+              </li>
+              <li>
+                <a href="#!" class="text-light">CAREERS</a>
+              </li>
+            </ul>
+          </div>
+          <!--Grid column-->
+    
+          <!--Grid column-->
+          
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </div>
+      <!-- Grid container -->
+    
+    
+
+  </div>
+  <div>
+    <button  type="button" class="btn btn-outline-light"><strong>subscribe to news letter</strong></button>
+    <br>
+    <div class="ic">
+    <i class="fa-brands fa-instagram"></i>
+    <i class="fa-brands fa-square-facebook"></i>
+    <i class="fa-brands fa-tiktok"></i>
+    <i class="fa-brands fa-twitter"></i>
+    <i class="fa-brands fa-youtube"></i>
+  </div>
+
+    
+    
+  </div>
+
+
+
+
+
+
+</footer>
